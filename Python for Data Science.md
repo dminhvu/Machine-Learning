@@ -15,11 +15,11 @@
 4. Phép lấy dư và phép luỹ thừa
 5. Thư viện math và một số toán tử khác
 ### 4. Lập trình hướng đối tượng
-a. Giới thiệu về OOP (lập trình hướng đối tượng)
-b. Lớp và đối tượng
+1. Giới thiệu về OOP (lập trình hướng đối tượng)
+2. Lớp và đối tượng
 ### 5. Xử lý vòng lặp và điều kiện
-a. Vòng lặp trong Python (for, while)
-b. Xử lý các điều kiện (if, else, elif)
+1. Vòng lặp trong Python (for, while)
+2. Xử lý các điều kiện (if, else, elif)
 ## 2. Cấu trúc dữ liệu cơ bản và ứng dụng
 ### 1. Mảng một chiều và mảng nhiều chiều (array)
 1. Mảng một chiều và mảng hai chiều
